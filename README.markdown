@@ -1,6 +1,6 @@
 ### Project Euler
 
-These are my solutions to the problems at www.projecteuler.com
+These are my solutions to the problems at www.projecteuler.net
 
 I am solving the problems to become more familiar with python and javascript.
 
